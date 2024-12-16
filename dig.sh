@@ -1,0 +1,1 @@
+dig @10.0.10.70 flag.example.com txt
