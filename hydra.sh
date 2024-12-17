@@ -1,1 +1,2 @@
 hydra -L 'path_to_dict_name' -P 'path_to_dict_pass' 'ip' module{http-form-post, http-get-form} "option_how(/:username=^USER^&password=^PASS^:/)"
+hydra -l admin -P passwords.txt example.com http-post-form "/login:username=^USER^&password=^PASS^:F=incorrect"
