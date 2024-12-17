@@ -1,0 +1,1 @@
+hydra -L 'path_to_dict_name' -P 'path_to_dict_pass' 'ip' module{http-form-post, http-get-form} "option_how(/:username=^USER^&password=^PASS^:/)"
