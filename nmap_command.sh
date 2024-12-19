@@ -9,3 +9,7 @@ nmap --script smb-os-discovery.nse -p445 10.10.10.40
 nmap -sC -sV -p21 10.129.42.253
 # Search cve on machine
 nmap --script vuln -sV host
+# Only open ports describe and display
+nmap -sV --open -oA nibbles_initial_scan 10.129.42.190
+# Check single port
+nc -nv 10.129.42.190 80
