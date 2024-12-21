@@ -1,14 +1,16 @@
 This repo for learn practices, in security network space.
 ### 
 * Useful resources 
-  https://www.cvedetails.com           # CVE Journals
-  https://www.exploit-db.com           # Database CVE
-  https://book.hacktricks.xyz          # Unix expolit
-  PayloadsAllTheThings                 # Exploit how Unix that on Windows
-  https://github.com/peass-ng/PEASS-ng # Exploit escalation (Linux and Windows)
-  https://gtfobins.github.io           # Unix command exploit
-  https://lolbas-project.github.io/#   # Windows command exploit
-  https://gchq.github.io/CyberChef/    # Decrypt 
+  https://www.cvedetails.com                                              # CVE Journals
+  https://www.exploit-db.com                                              # Database CVE
+  https://book.hacktricks.xyz                                             # Unix expolit
+  PayloadsAllTheThings                                                    # Exploit how Unix that on Windows
+  https://github.com/peass-ng/PEASS-ng                                    # Exploit escalation (Linux and Windows)
+  https://gtfobins.github.io                                              # Unix command exploit
+  https://lolbas-project.github.io/#                                      # Windows command exploit
+  https://gchq.github.io/CyberChef/                                       # Decrypt 
+  https://deepai.org/chat                                                 # AI 
+  https://hackerone.com/opportunities/all/search?ordering=Newest+programs # Bags exploit.
 ###
 * Training place
   https://owasp.org/www-project-juice-shop/                                 # OWASP
