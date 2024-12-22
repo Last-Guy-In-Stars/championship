@@ -1,3 +1,3 @@
 # For steganography image
-stegcracker name_image dict_pass
+stegcracker path_to_image dict_pass
 strings png
