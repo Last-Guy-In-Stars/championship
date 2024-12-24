@@ -9,7 +9,9 @@
 - [Windows Command Exploit](https://lolbas-project.github.io/#)  
 - [Decrypt](https://gchq.github.io/CyberChef/)  
 - [AI Resources](https://deepai.org/chat)  
-- [Bags Exploit](https://hackerone.com/opportunities/all/search?ordering=Newest+programs)  
+- [Bags Exploit](https://hackerone.com/opportunities/all/search?ordering=Newest+programs)
+- [Reverse shell](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+- [Script a Reverse shell](https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh)  
 
 ## Training Places
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)  
