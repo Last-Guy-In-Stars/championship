@@ -1,7 +1,6 @@
-This repo for learn practices, in security network space.
-### 
-* Useful resources 
-  https://www.cvedetails.com                                              # CVE Journals
+# This repo for learn practices, in security network space.
+## Useful resources 
+- (https://www.cvedetails.com)[CVE Journals]
   https://www.exploit-db.com                                              # Database CVE
   https://book.hacktricks.xyz                                             # Unix expolit
   PayloadsAllTheThings                                                    # Exploit how Unix that on Windows
@@ -11,6 +10,8 @@ This repo for learn practices, in security network space.
   https://gchq.github.io/CyberChef/                                       # Decrypt 
   https://deepai.org/chat                                                 # AI 
   https://hackerone.com/opportunities/all/search?ordering=Newest+programs # Bags exploit.
+  https://highon.coffee/blog/reverse-shell-cheat-sheet/                   # Reverse shell
+  https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh  # Script creates reverse shell
 ###
 * Training place
   https://owasp.org/www-project-juice-shop/                                 # OWASP
